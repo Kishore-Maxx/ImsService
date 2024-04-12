@@ -31,4 +31,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: APK
-        path: dist/ImsService.apk
+        path: dist/ImsServices.apk
